@@ -10853,10 +10853,6 @@ body:after {
   background-image: url(https://kametsu.com/uploads/monthly_2019_01/angel-anime-characters-4k-s3-3840x2160.jpg.dc43f75b934d4fd01f20914f5dce5252.jpg);
 }
 
-.l-footer:after {
-  content: "*Lignum*";
-}
-
 @media screen and (min-width: 1px) {
   .correct-mob-version {
     color: normal;
